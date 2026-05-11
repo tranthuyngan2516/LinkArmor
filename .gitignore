@@ -11,6 +11,10 @@ pnpm-debug.log*
 # OS
 .DS_Store
 
+# Infrastructure
+docker-compose.yml
+docker-compose.override.yml
+
 # Environment variables
 .env
 
