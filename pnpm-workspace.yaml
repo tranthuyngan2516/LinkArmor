@@ -1,0 +1,4 @@
+allowBuilds:
+  '@nestjs/core': true
+  oracledb: true
+  unrs-resolver: true
